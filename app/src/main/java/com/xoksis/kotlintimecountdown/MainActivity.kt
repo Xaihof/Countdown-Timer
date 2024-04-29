@@ -11,6 +11,7 @@ import com.xoksis.kotlintimecountdown.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
+    // Variables
     private lateinit var binding: ActivityMainBinding
 
     private var timeSelected: Int = 0
